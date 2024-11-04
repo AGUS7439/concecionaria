@@ -48,7 +48,7 @@ INSERT INTO `carros` (`id`, `marca`, `modelo`, `year`, `color`, `puertas`, `favo
 (3, 'Chevrolet', 'Onix Turbo', '2013', 'Blanco', '2', 'No', 'chevrolet.webp'),
 (7, 'Toyota', 'Avalon', '2018', 'Gris', '2', 'No', 'toyota_corolla.webp'),
 (8, 'Chevrolet', 'Joy HB', '2015', 'Rojo', '4', 'Si', ''),
-(10, 'Mercedes-Benz', 'CLA Coupé', '2022', 'Blanco', '4', 'Si', 'CLA_Coupe.jpg');
+(10, 'Mercedes-Benz', 'CLA Coupe', '2022', 'Blanco', '4', 'Si', 'CLA_Coupe.jpg');
 
 --
 -- Índices para tablas volcadas
